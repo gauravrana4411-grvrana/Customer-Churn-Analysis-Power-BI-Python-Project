@@ -1,11 +1,11 @@
 # Customer-Churn-Analysis-Power-BI-Python-Project
 Customer Churn Analysis using Power BI and Python: data cleaning, feature engineering, and EDA with Python, plus interactive dashboards in Power BI to identify churn drivers, segment customers, and support data-driven retention strategies.
 
-Overview
+# Overview
 
 This project analyzes customer churn behavior using Power BI Desktop integrated with Python scripting. The goal is to identify key drivers of churn and provide actionable insights through interactive dashboards and advanced visual analytics.
 
-Situation
+# Situation
 
 A telecommunications company was experiencing high customer churn and needed a data-driven approach to understand:
 
@@ -17,7 +17,7 @@ How pricing, contracts, and tenure impacted churn
 
 The available dataset required data cleaning, transformation, and feature engineering before meaningful analysis could be performed.
 
-Task
+# Task
 
 Clean and preprocess the Telco customer dataset
 
@@ -29,7 +29,7 @@ Build interactive and insightful dashboards in Power BI
 
 Present churn drivers clearly for business decision-making
 
-Action
+# Action
 Data Loading & Cleaning (Python in Power BI)
 
 Loaded the dataset using Python Script inside Power BI
@@ -66,7 +66,7 @@ Customer Churn – Contract & Tenure Insights
 
 Each dashboard includes KPIs, filters, and visuals to explore churn trends dynamically.
 
-Results
+# Results
 
 Identified higher churn among month-to-month contract customers
 
@@ -78,7 +78,7 @@ Enabled stakeholders to segment customers by spend level and risk
 
 Delivered a decision-ready dashboard for churn reduction strategies
 
-Tools & Technologies
+# Tools & Technologies
 
 Power BI Desktop
 
